@@ -2,7 +2,8 @@
 
 Code and aggregated results for:
 
-> Ayana, J.W., Lamore, Y. *Can machine-learning models predict fecal sludge characteristics in an unsampled city? A leave-one-city-out evaluation across eight Sub-Saharan African cities.* Manuscript under review, Journal of Environmental Management.
+> Ayana, J.W., Lamore, Y. *Cross-city transferability of machine-learning models1 for fecal sludge characterization: Leave-one-city-out
+validation and local calibration in Sub-Saharan Africa* Manuscript under review, Journal of Environmental Management.
 
 The scripts download seven open fecal sludge datasets, harmonise them into one modelling table, and evaluate how well models trained in some cities predict total solids (TS), volatile solids (VS), chemical oxygen demand (COD) and ammonium (NH4+-N) in a city they have never seen (leave-one-city-out, LOCO). They also run the within-city, external, mixed-model, local-calibration and engineering-sensitivity analyses reported in the paper and its Supplementary Material.
 
