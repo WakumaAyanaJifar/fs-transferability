@@ -1,0 +1,13 @@
+quantity,city,observed_median,design_value_observed,error_pct_k5_median,error_pct_k5_p10,error_pct_k5_p90,predicted_median_uncalibrated,design_value_uncalibrated,error_pct_uncalibrated,design_value_90pct_low,design_value_90pct_high
+"drying-bed area, m2",Dar es Salaam,7.13,650.61,-19.26,-69.3,112.5,41.9,3823.7,487.71,296.27,49348.45
+"drying-bed area, m2",Freetown,12.0,1095.0,76.8,-74.9,866.19,71.57,6530.7,496.41,440.52,96817.47
+"drying-bed area, m2",Kampala,12.48,1138.63,-6.54,-50.56,94.79,37.0,3375.98,196.5,142.02,80252.83
+"drying-bed area, m2",Kumasi,176.71,16124.79,1.21,-26.62,40.82,87.81,8012.73,-50.31,471.34,136214.86
+"drying-bed area, m2",Lusaka,88.58,8082.47,-11.33,-75.38,94.0,37.8,3449.23,-57.32,168.44,70631.66
+"drying-bed area, m2",Naivasha,62.5,5703.12,-25.08,-60.78,98.64,29.03,2648.86,-53.55,157.78,44470.71
+"methane potential, m3 CH4/d",Dar es Salaam,10.13,177.19,-42.95,-81.04,100.34,35.25,616.93,248.18,30.69,12400.93
+"methane potential, m3 CH4/d",Freetown,7.83,137.02,49.65,-78.85,430.33,39.16,685.31,400.14,51.57,9107.38
+"methane potential, m3 CH4/d",Kampala,12.52,219.1,-4.04,-59.02,118.98,33.34,583.53,166.33,18.63,18272.59
+"methane potential, m3 CH4/d",Kumasi,59.3,1037.75,0.87,-23.24,44.34,60.44,1057.67,1.92,43.54,25695.37
+"methane potential, m3 CH4/d",Lusaka,88.5,1548.75,11.52,-45.76,95.72,24.57,430.0,-72.24,22.86,8088.27
+"methane potential, m3 CH4/d",Naivasha,71.9,1258.25,-27.34,-93.44,37.36,43.18,755.71,-39.94,30.27,18864.0

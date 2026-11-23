@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or the aggregated results, please cite it as below."
+title: "fs-transferability: code and aggregated results for a leave-one-city-out evaluation of fecal sludge prediction in Sub-Saharan Africa"
+type: software
+license: MIT
+repository-code: "https://github.com/WakumaAyanaJifar/fs-transferability"
+version: "1.0.0"
+date-released: "2026-11-23"
+authors:
+  - family-names: Ayana
+    given-names: Jifar Wakuma
+    orcid: "https://orcid.org/0009-0001-9484-9253"
+    affiliation: "School of Computer and Communication Engineering, University of Science and Technology Beijing"
+  - family-names: Lamore
+    given-names: Yonas
+    orcid: "https://orcid.org/0000-0002-3787-6343"
+    affiliation: "Department of Environmental Science and Engineering, University of Science and Technology Beijing; Debre Markos University"
+keywords: [fecal sludge, faecal sludge management, machine learning, leave-one-city-out, transferability, Sub-Saharan Africa]

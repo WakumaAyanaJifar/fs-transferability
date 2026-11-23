@@ -1,0 +1,15 @@
+city,dataset,n,n_TS,TS_median,COD_median,pit_pct,source,sampling_point,establishments
+Dar es Salaam,sludgedata_esanju,103,103,11.8,15.8,54.4,GFSD laboratory 22,not recorded,restaurants and hotels
+Dar es Salaam,sludgedata_marwa,37,37,2.1,1.4,75.7,GFSD laboratory 24,not recorded,restaurants and hotels
+Freetown,volaser_7countries,29,29,10.0,7.8,69.0,Andriessen et al. (2023),"in containment (pit sampler at 3 depths / core sampler, composite)",households and non-households
+Kampala,englund2020_kampala,164,153,15.0,18.5,49.4,Englund et al. (2020),"truck, at discharge (Bugolobi WWTP)",households and non-households
+Kampala,fecalcanuga_kampala,19,19,20.9,18.4,0.0,Shaw et al. (2026),"in containment (3 depths, averaged)",households
+Kampala,volaser_7countries,29,29,6.1,2.0,44.8,Andriessen et al. (2023),"in containment (pit sampler at 3 depths / core sampler, composite)",households and non-households
+Kampala,ward2022_kampala_naivasha,10,10,5.8,,10.0,Ward et al. (2023),"in containment (multi-stage sampler, top/middle/bottom composite)","households, offices, public toilets, hotel, campsite, place of worship; sites selected for diversity"
+Kumasi,volaser_7countries,32,32,157.4,60.0,89.7,Andriessen et al. (2023),"in containment (pit sampler at 3 depths / core sampler, composite)",households and non-households
+Lusaka,volaser_7countries,37,37,131.1,113.0,90.9,Andriessen et al. (2023),"in containment (pit sampler at 3 depths / core sampler, composite)",households and non-households
+Lusaka,ward2021_lusaka,465,439,88.0,86.4,51.5,Ward et al. (2021),"in containment (pit sampler / core sampler, composite over depth)",households and non-households
+Naivasha,volaser_7countries,22,22,100.0,71.9,68.2,Andriessen et al. (2023),"in containment (pit sampler at 3 depths / core sampler, composite)",households and non-households
+Naivasha,ward2022_kampala_naivasha,10,10,3.8,,50.0,Ward et al. (2023),"truck, at discharge (containment fully emptied; start/middle/end composite)","households, offices, public toilets, hotel, campsite, place of worship; sites selected for diversity"
+Ouagadougou,sludgedata_bassan_2013,56,56,9.9,8.8,58.8,Bassan et al. (2013) via GFSD,"truck, at discharge (composite of 4 sub-samples)",not recorded
+Pietermaritzburg,sludgedata_wash,5,5,196.6,0.5,80.0,GFSD laboratory 37,not recorded,not recorded

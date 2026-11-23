@@ -1,0 +1,55 @@
+target,comparison,n,spearman_vs_overall,top3
+ts_gL,city subset: Lusaka,418,0.982,"log_ec, flush_toilet, log_sludge_age"
+ts_gL,city subset: Kampala,211,0.935,"log_sludge_age, flush_toilet, log_ec"
+ts_gL,city subset: Dar es Salaam,140,0.803,"household, water_connection, flush_toilet"
+ts_gL,city subset: Naivasha,32,0.95,"log_sludge_age, flush_toilet, ph"
+ts_gL,city subset: Kumasi,29,0.953,"flush_toilet, ph, log_sludge_age"
+ts_gL,city subset: Freetown,27,0.968,"log_ec, flush_toilet, log_sludge_age"
+ts_gL,model refitted without Lusaka,440,0.838,"log_sludge_age, log_ec, household"
+ts_gL,overall,858,1.0,"log_ec, flush_toilet, log_sludge_age"
+ts_gL,predictor correlation is_pit ~ is_septic,858,0.963,
+ts_gL,predictor correlation is_pit ~ flush_toilet,858,0.766,
+ts_gL,predictor correlation flush_toilet ~ is_septic,858,0.724,
+ts_gL,predictor correlation never_emptied ~ log_sludge_age,858,0.66,
+ts_gL,predictor correlation is_septic ~ log_ec,858,0.627,
+ts_gL,predictor correlation log_ec ~ is_pit,858,0.617,
+ts_gL,predictor correlation household ~ log_users,858,0.586,
+ts_gL,predictor correlation is_septic ~ water_connection,858,0.558,
+ts_gL,predictor correlation water_connection ~ is_pit,858,0.539,
+ts_gL,predictor correlation flush_toilet ~ log_ec,858,0.533,
+cod_gL,city subset: Lusaka,349,0.965,"log_ec, watertight, never_emptied"
+cod_gL,city subset: Kampala,179,0.924,"never_emptied, watertight, log_sludge_age"
+cod_gL,city subset: Dar es Salaam,72,0.776,"household, never_emptied, flush_toilet"
+cod_gL,city subset: Freetown,29,0.941,"log_ec, never_emptied, log_sludge_age"
+cod_gL,city subset: Kumasi,29,0.912,"never_emptied, log_ec, flush_toilet"
+cod_gL,city subset: Naivasha,22,0.962,"never_emptied, watertight, log_ec"
+cod_gL,model refitted without Lusaka,332,0.574,"log_ec, log_sludge_age, flush_toilet"
+cod_gL,overall,681,1.0,"never_emptied, log_ec, watertight"
+cod_gL,predictor correlation is_pit ~ is_septic,681,0.953,
+cod_gL,predictor correlation is_pit ~ flush_toilet,681,0.826,
+cod_gL,predictor correlation flush_toilet ~ is_septic,681,0.776,
+cod_gL,predictor correlation never_emptied ~ log_sludge_age,681,0.645,
+cod_gL,predictor correlation is_septic ~ log_ec,681,0.622,
+cod_gL,predictor correlation log_ec ~ is_pit,681,0.608,
+cod_gL,predictor correlation household ~ log_users,681,0.591,
+cod_gL,predictor correlation flush_toilet ~ log_ec,681,0.588,
+cod_gL,predictor correlation water_connection ~ is_septic,681,0.585,
+cod_gL,predictor correlation is_pit ~ water_connection,681,0.559,
+cod_gL,predictor correlation water_connection ~ flush_toilet,681,0.523,
+vs_gL,city subset: Lusaka,407,0.979,"log_ec, flush_toilet, ph"
+vs_gL,city subset: Kampala,211,0.885,"log_sludge_age, ph, flush_toilet"
+vs_gL,city subset: Dar es Salaam,118,0.762,"household, water_connection, ph"
+vs_gL,city subset: Naivasha,31,0.918,"log_sludge_age, ph, flush_toilet"
+vs_gL,city subset: Kumasi,29,0.879,"ph, flush_toilet, log_sludge_age"
+vs_gL,model refitted without Lusaka,389,0.735,"log_sludge_age, log_ec, household"
+vs_gL,overall,796,1.0,"log_ec, ph, flush_toilet"
+vs_gL,predictor correlation is_pit ~ is_septic,796,0.96,
+vs_gL,predictor correlation is_pit ~ flush_toilet,796,0.765,
+vs_gL,predictor correlation flush_toilet ~ is_septic,796,0.718,
+vs_gL,predictor correlation never_emptied ~ log_sludge_age,796,0.667,
+vs_gL,predictor correlation is_septic ~ log_ec,796,0.663,
+vs_gL,predictor correlation log_ec ~ is_pit,796,0.654,
+vs_gL,predictor correlation household ~ log_users,796,0.586,
+vs_gL,predictor correlation flush_toilet ~ log_ec,796,0.577,
+vs_gL,predictor correlation water_connection ~ is_septic,796,0.567,
+vs_gL,predictor correlation is_pit ~ water_connection,796,0.547,

@@ -1,0 +1,13 @@
+target,scenario,R2_log,f2,R2_p10,R2_p90
+cod_gL,uncalibrated,-0.211,28.68,,
+cod_gL,"operational, k=5 local samples",0.24,42.762,0.086,0.368
+cod_gL,oracle offset (diagnostic),0.412,48.407,,
+nh4_mgL,uncalibrated,0.316,39.803,,
+nh4_mgL,"operational, k=5 local samples",0.284,47.602,0.1,0.424
+nh4_mgL,oracle offset (diagnostic),0.417,54.934,,
+ts_gL,uncalibrated,-0.059,24.629,,
+ts_gL,"operational, k=5 local samples",0.027,37.601,-0.222,0.227
+ts_gL,oracle offset (diagnostic),0.254,43.688,,
+vs_gL,uncalibrated,-0.027,32.314,,
+vs_gL,"operational, k=5 local samples",0.062,38.066,-0.132,0.224
+vs_gL,oracle offset (diagnostic),0.25,42.952,,

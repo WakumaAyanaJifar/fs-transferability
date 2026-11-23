@@ -1,0 +1,7 @@
+target,fixed_effects,n,cities,sources,var_city,var_source_within_city,var_residual,pct_city,pct_source_within_city,pct_residual
+ts_gL,none,911,8,14,0.158,0.182,0.321,23.919,27.539,48.542
+ts_gL,containment,911,8,14,0.083,0.201,0.259,15.236,37.02,47.745
+vs_gL,none,849,7,13,0.154,0.192,0.35,22.084,27.575,50.341
+vs_gL,containment,849,7,13,0.079,0.208,0.281,13.879,36.584,49.538
+cod_gL,none,736,8,12,0.187,0.208,0.205,31.156,34.657,34.188
+cod_gL,containment,736,8,12,0.148,0.242,0.18,26.031,42.389,31.58

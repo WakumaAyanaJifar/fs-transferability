@@ -1,0 +1,14 @@
+stage,n
+"Harmonised samples, all sources",1390
+  outside Sub-Saharan Africa (external test only),360
+  Sub-Saharan Africa,1030
+"  SSA, author-flagged outliers removed (Englund Kampala)",12
+SSA analytical samples,1018
+  with measured ts_gL,981
+  with ts_gL and >=50% survey predictors (LOCO set),808
+  with measured vs_gL,915
+  with vs_gL and >=50% survey predictors (LOCO set),752
+  with measured cod_gL,792
+  with cod_gL and >=50% survey predictors (LOCO set),659
+  with measured nh4_mgL,668
+  with nh4_mgL and >=50% survey predictors (LOCO set),608

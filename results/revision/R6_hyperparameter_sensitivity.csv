@@ -1,0 +1,31 @@
+target,model,setting,R2_log
+ts_gL,random_forest,"min_leaf=1, max_features=0.33",-0.005
+ts_gL,random_forest,"min_leaf=1, max_features=0.5",-0.007
+ts_gL,random_forest,"min_leaf=1, max_features=1.0",-0.026
+ts_gL,random_forest,"min_leaf=5, max_features=0.33",-0.026
+ts_gL,random_forest,"min_leaf=5, max_features=0.5",-0.055
+ts_gL,random_forest,"min_leaf=5, max_features=1.0",-0.126
+ts_gL,random_forest,"min_leaf=20, max_features=0.33",-0.023
+ts_gL,random_forest,"min_leaf=20, max_features=0.5",-0.039
+ts_gL,random_forest,"min_leaf=20, max_features=1.0",-0.148
+ts_gL,xgboost,"max_depth=2, lr=0.03, rounds=400",-0.021
+ts_gL,xgboost,"max_depth=2, lr=0.1, rounds=200",-0.079
+ts_gL,xgboost,"max_depth=3, lr=0.03, rounds=400",-0.073
+ts_gL,xgboost,"max_depth=3, lr=0.1, rounds=200",-0.193
+ts_gL,xgboost,"max_depth=6, lr=0.03, rounds=400",-0.167
+ts_gL,xgboost,"max_depth=6, lr=0.1, rounds=200",-0.27
+cod_gL,random_forest,"min_leaf=1, max_features=0.33",-0.211
+cod_gL,random_forest,"min_leaf=1, max_features=0.5",-0.206
+cod_gL,random_forest,"min_leaf=1, max_features=1.0",-0.212
+cod_gL,random_forest,"min_leaf=5, max_features=0.33",-0.274
+cod_gL,random_forest,"min_leaf=5, max_features=0.5",-0.22
+cod_gL,random_forest,"min_leaf=5, max_features=1.0",-0.328
+cod_gL,random_forest,"min_leaf=20, max_features=0.33",-0.506
+cod_gL,random_forest,"min_leaf=20, max_features=0.5",-0.462
+cod_gL,random_forest,"min_leaf=20, max_features=1.0",-0.445
+cod_gL,xgboost,"max_depth=2, lr=0.03, rounds=400",-0.227
+cod_gL,xgboost,"max_depth=2, lr=0.1, rounds=200",-0.34
+cod_gL,xgboost,"max_depth=3, lr=0.03, rounds=400",-0.288
+cod_gL,xgboost,"max_depth=3, lr=0.1, rounds=200",-0.393
+cod_gL,xgboost,"max_depth=6, lr=0.03, rounds=400",-0.427
+cod_gL,xgboost,"max_depth=6, lr=0.1, rounds=200",-0.477

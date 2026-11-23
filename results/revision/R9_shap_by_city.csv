@@ -1,0 +1,273 @@
+target,city,feature,mean_abs_shap
+ts_gL,Lusaka,is_pit,0.0652
+ts_gL,Lusaka,is_septic,0.0069
+ts_gL,Lusaka,is_other,0.0064
+ts_gL,Lusaka,watertight,0.0282
+ts_gL,Lusaka,log_volume,0.0516
+ts_gL,Lusaka,log_users,0.0369
+ts_gL,Lusaka,household,0.0664
+ts_gL,Lusaka,flush_toilet,0.1325
+ts_gL,Lusaka,greywater,0.013
+ts_gL,Lusaka,water_connection,0.0337
+ts_gL,Lusaka,solid_waste,0.0079
+ts_gL,Lusaka,additives,0.0159
+ts_gL,Lusaka,never_emptied,0.0104
+ts_gL,Lusaka,log_sludge_age,0.1263
+ts_gL,Lusaka,ph,0.1079
+ts_gL,Lusaka,log_ec,0.2177
+ts_gL,Kampala,is_pit,0.072
+ts_gL,Kampala,is_septic,0.006
+ts_gL,Kampala,is_other,0.0185
+ts_gL,Kampala,watertight,0.0327
+ts_gL,Kampala,log_volume,0.0708
+ts_gL,Kampala,log_users,0.0432
+ts_gL,Kampala,household,0.0682
+ts_gL,Kampala,flush_toilet,0.1009
+ts_gL,Kampala,greywater,0.0115
+ts_gL,Kampala,water_connection,0.0246
+ts_gL,Kampala,solid_waste,0.0103
+ts_gL,Kampala,additives,0.0121
+ts_gL,Kampala,never_emptied,0.0054
+ts_gL,Kampala,log_sludge_age,0.1564
+ts_gL,Kampala,ph,0.0703
+ts_gL,Kampala,log_ec,0.0783
+ts_gL,Dar es Salaam,is_pit,0.0373
+ts_gL,Dar es Salaam,is_septic,0.0021
+ts_gL,Dar es Salaam,is_other,0.0159
+ts_gL,Dar es Salaam,watertight,0.0203
+ts_gL,Dar es Salaam,log_volume,0.0749
+ts_gL,Dar es Salaam,log_users,0.0306
+ts_gL,Dar es Salaam,household,0.1913
+ts_gL,Dar es Salaam,flush_toilet,0.1131
+ts_gL,Dar es Salaam,greywater,0.0225
+ts_gL,Dar es Salaam,water_connection,0.1505
+ts_gL,Dar es Salaam,solid_waste,0.0295
+ts_gL,Dar es Salaam,additives,0.0562
+ts_gL,Dar es Salaam,never_emptied,0.0022
+ts_gL,Dar es Salaam,log_sludge_age,0.0335
+ts_gL,Dar es Salaam,ph,0.101
+ts_gL,Dar es Salaam,log_ec,0.1013
+ts_gL,Naivasha,is_pit,0.0695
+ts_gL,Naivasha,is_septic,0.0062
+ts_gL,Naivasha,is_other,0.0061
+ts_gL,Naivasha,watertight,0.0385
+ts_gL,Naivasha,log_volume,0.0795
+ts_gL,Naivasha,log_users,0.0361
+ts_gL,Naivasha,household,0.0758
+ts_gL,Naivasha,flush_toilet,0.142
+ts_gL,Naivasha,greywater,0.0125
+ts_gL,Naivasha,water_connection,0.0243
+ts_gL,Naivasha,solid_waste,0.0114
+ts_gL,Naivasha,additives,0.0144
+ts_gL,Naivasha,never_emptied,0.0073
+ts_gL,Naivasha,log_sludge_age,0.2308
+ts_gL,Naivasha,ph,0.1153
+ts_gL,Naivasha,log_ec,0.0979
+ts_gL,Kumasi,is_pit,0.0713
+ts_gL,Kumasi,is_septic,0.0073
+ts_gL,Kumasi,is_other,0.0261
+ts_gL,Kumasi,watertight,0.0262
+ts_gL,Kumasi,log_volume,0.0477
+ts_gL,Kumasi,log_users,0.0374
+ts_gL,Kumasi,household,0.0931
+ts_gL,Kumasi,flush_toilet,0.1785
+ts_gL,Kumasi,greywater,0.0078
+ts_gL,Kumasi,water_connection,0.0644
+ts_gL,Kumasi,solid_waste,0.0079
+ts_gL,Kumasi,additives,0.0188
+ts_gL,Kumasi,never_emptied,0.0044
+ts_gL,Kumasi,log_sludge_age,0.1414
+ts_gL,Kumasi,ph,0.1431
+ts_gL,Kumasi,log_ec,0.1111
+ts_gL,Freetown,is_pit,0.065
+ts_gL,Freetown,is_septic,0.0052
+ts_gL,Freetown,is_other,0.006
+ts_gL,Freetown,watertight,0.0133
+ts_gL,Freetown,log_volume,0.0521
+ts_gL,Freetown,log_users,0.0627
+ts_gL,Freetown,household,0.0784
+ts_gL,Freetown,flush_toilet,0.1416
+ts_gL,Freetown,greywater,0.0076
+ts_gL,Freetown,water_connection,0.0378
+ts_gL,Freetown,solid_waste,0.0078
+ts_gL,Freetown,additives,0.0194
+ts_gL,Freetown,never_emptied,0.0079
+ts_gL,Freetown,log_sludge_age,0.1241
+ts_gL,Freetown,ph,0.1008
+ts_gL,Freetown,log_ec,0.1937
+cod_gL,Lusaka,is_pit,0.0276
+cod_gL,Lusaka,is_septic,0.0035
+cod_gL,Lusaka,is_other,0.0089
+cod_gL,Lusaka,watertight,0.1452
+cod_gL,Lusaka,log_volume,0.0388
+cod_gL,Lusaka,log_users,0.0249
+cod_gL,Lusaka,household,0.0526
+cod_gL,Lusaka,flush_toilet,0.0972
+cod_gL,Lusaka,greywater,0.0271
+cod_gL,Lusaka,water_connection,0.0285
+cod_gL,Lusaka,solid_waste,0.0082
+cod_gL,Lusaka,additives,0.0037
+cod_gL,Lusaka,never_emptied,0.1291
+cod_gL,Lusaka,log_sludge_age,0.0833
+cod_gL,Lusaka,ph,0.0471
+cod_gL,Lusaka,log_ec,0.1611
+cod_gL,Kampala,is_pit,0.0495
+cod_gL,Kampala,is_septic,0.0076
+cod_gL,Kampala,is_other,0.0257
+cod_gL,Kampala,watertight,0.1361
+cod_gL,Kampala,log_volume,0.0569
+cod_gL,Kampala,log_users,0.0499
+cod_gL,Kampala,household,0.0417
+cod_gL,Kampala,flush_toilet,0.0519
+cod_gL,Kampala,greywater,0.0197
+cod_gL,Kampala,water_connection,0.0151
+cod_gL,Kampala,solid_waste,0.0035
+cod_gL,Kampala,additives,0.0051
+cod_gL,Kampala,never_emptied,0.1367
+cod_gL,Kampala,log_sludge_age,0.125
+cod_gL,Kampala,ph,0.0445
+cod_gL,Kampala,log_ec,0.0906
+cod_gL,Dar es Salaam,is_pit,0.0229
+cod_gL,Dar es Salaam,is_septic,0.0029
+cod_gL,Dar es Salaam,is_other,0.0334
+cod_gL,Dar es Salaam,watertight,0.0591
+cod_gL,Dar es Salaam,log_volume,0.119
+cod_gL,Dar es Salaam,log_users,0.0399
+cod_gL,Dar es Salaam,household,0.2623
+cod_gL,Dar es Salaam,flush_toilet,0.1233
+cod_gL,Dar es Salaam,greywater,0.0069
+cod_gL,Dar es Salaam,water_connection,0.1004
+cod_gL,Dar es Salaam,solid_waste,0.0288
+cod_gL,Dar es Salaam,additives,0.0031
+cod_gL,Dar es Salaam,never_emptied,0.1687
+cod_gL,Dar es Salaam,log_sludge_age,0.0734
+cod_gL,Dar es Salaam,ph,0.0435
+cod_gL,Dar es Salaam,log_ec,0.0653
+cod_gL,Freetown,is_pit,0.0348
+cod_gL,Freetown,is_septic,0.0036
+cod_gL,Freetown,is_other,0.0088
+cod_gL,Freetown,watertight,0.1006
+cod_gL,Freetown,log_volume,0.0327
+cod_gL,Freetown,log_users,0.0693
+cod_gL,Freetown,household,0.0426
+cod_gL,Freetown,flush_toilet,0.1068
+cod_gL,Freetown,greywater,0.0299
+cod_gL,Freetown,water_connection,0.0229
+cod_gL,Freetown,solid_waste,0.0133
+cod_gL,Freetown,additives,0.012
+cod_gL,Freetown,never_emptied,0.1413
+cod_gL,Freetown,log_sludge_age,0.1133
+cod_gL,Freetown,ph,0.0446
+cod_gL,Freetown,log_ec,0.1994
+cod_gL,Kumasi,is_pit,0.0218
+cod_gL,Kumasi,is_septic,0.002
+cod_gL,Kumasi,is_other,0.025
+cod_gL,Kumasi,watertight,0.1002
+cod_gL,Kumasi,log_volume,0.0621
+cod_gL,Kumasi,log_users,0.0207
+cod_gL,Kumasi,household,0.0654
+cod_gL,Kumasi,flush_toilet,0.1008
+cod_gL,Kumasi,greywater,0.0219
+cod_gL,Kumasi,water_connection,0.0188
+cod_gL,Kumasi,solid_waste,0.0196
+cod_gL,Kumasi,additives,0.0053
+cod_gL,Kumasi,never_emptied,0.1451
+cod_gL,Kumasi,log_sludge_age,0.0741
+cod_gL,Kumasi,ph,0.0876
+cod_gL,Kumasi,log_ec,0.1441
+cod_gL,Naivasha,is_pit,0.0345
+cod_gL,Naivasha,is_septic,0.0049
+cod_gL,Naivasha,is_other,0.0089
+cod_gL,Naivasha,watertight,0.1455
+cod_gL,Naivasha,log_volume,0.0632
+cod_gL,Naivasha,log_users,0.0707
+cod_gL,Naivasha,household,0.0612
+cod_gL,Naivasha,flush_toilet,0.1065
+cod_gL,Naivasha,greywater,0.0263
+cod_gL,Naivasha,water_connection,0.0331
+cod_gL,Naivasha,solid_waste,0.0109
+cod_gL,Naivasha,additives,0.0051
+cod_gL,Naivasha,never_emptied,0.1471
+cod_gL,Naivasha,log_sludge_age,0.1012
+cod_gL,Naivasha,ph,0.0652
+cod_gL,Naivasha,log_ec,0.1233
+vs_gL,Lusaka,is_pit,0.0849
+vs_gL,Lusaka,is_septic,0.0111
+vs_gL,Lusaka,is_other,0.0071
+vs_gL,Lusaka,watertight,0.0502
+vs_gL,Lusaka,log_volume,0.0567
+vs_gL,Lusaka,log_users,0.0222
+vs_gL,Lusaka,household,0.0527
+vs_gL,Lusaka,flush_toilet,0.1374
+vs_gL,Lusaka,greywater,0.0153
+vs_gL,Lusaka,water_connection,0.0412
+vs_gL,Lusaka,solid_waste,0.0258
+vs_gL,Lusaka,additives,0.0136
+vs_gL,Lusaka,never_emptied,0.0094
+vs_gL,Lusaka,log_sludge_age,0.125
+vs_gL,Lusaka,ph,0.1336
+vs_gL,Lusaka,log_ec,0.1932
+vs_gL,Kampala,is_pit,0.0907
+vs_gL,Kampala,is_septic,0.0111
+vs_gL,Kampala,is_other,0.0199
+vs_gL,Kampala,watertight,0.0502
+vs_gL,Kampala,log_volume,0.0867
+vs_gL,Kampala,log_users,0.0313
+vs_gL,Kampala,household,0.0498
+vs_gL,Kampala,flush_toilet,0.1033
+vs_gL,Kampala,greywater,0.0111
+vs_gL,Kampala,water_connection,0.0284
+vs_gL,Kampala,solid_waste,0.0293
+vs_gL,Kampala,additives,0.0094
+vs_gL,Kampala,never_emptied,0.0074
+vs_gL,Kampala,log_sludge_age,0.1569
+vs_gL,Kampala,ph,0.1132
+vs_gL,Kampala,log_ec,0.0685
+vs_gL,Dar es Salaam,is_pit,0.051
+vs_gL,Dar es Salaam,is_septic,0.0031
+vs_gL,Dar es Salaam,is_other,0.0193
+vs_gL,Dar es Salaam,watertight,0.0279
+vs_gL,Dar es Salaam,log_volume,0.0927
+vs_gL,Dar es Salaam,log_users,0.0259
+vs_gL,Dar es Salaam,household,0.2035
+vs_gL,Dar es Salaam,flush_toilet,0.113
+vs_gL,Dar es Salaam,greywater,0.0295
+vs_gL,Dar es Salaam,water_connection,0.2016
+vs_gL,Dar es Salaam,solid_waste,0.058
+vs_gL,Dar es Salaam,additives,0.0439
+vs_gL,Dar es Salaam,never_emptied,0.0098
+vs_gL,Dar es Salaam,log_sludge_age,0.0328
+vs_gL,Dar es Salaam,ph,0.1266
+vs_gL,Dar es Salaam,log_ec,0.1003
+vs_gL,Naivasha,is_pit,0.0931
+vs_gL,Naivasha,is_septic,0.012
+vs_gL,Naivasha,is_other,0.0072
+vs_gL,Naivasha,watertight,0.0609
+vs_gL,Naivasha,log_volume,0.1045
+vs_gL,Naivasha,log_users,0.0242
+vs_gL,Naivasha,household,0.0657
+vs_gL,Naivasha,flush_toilet,0.1502
+vs_gL,Naivasha,greywater,0.0148
+vs_gL,Naivasha,water_connection,0.0312
+vs_gL,Naivasha,solid_waste,0.032
+vs_gL,Naivasha,additives,0.0097
+vs_gL,Naivasha,never_emptied,0.0086
+vs_gL,Naivasha,log_sludge_age,0.1938
+vs_gL,Naivasha,ph,0.1552
+vs_gL,Naivasha,log_ec,0.0979
+vs_gL,Kumasi,is_pit,0.0979
+vs_gL,Kumasi,is_septic,0.014
+vs_gL,Kumasi,is_other,0.0246
+vs_gL,Kumasi,watertight,0.0423
+vs_gL,Kumasi,log_volume,0.0631
+vs_gL,Kumasi,log_users,0.0341
+vs_gL,Kumasi,household,0.0864
+vs_gL,Kumasi,flush_toilet,0.1823
+vs_gL,Kumasi,greywater,0.0042
+vs_gL,Kumasi,water_connection,0.0844
+vs_gL,Kumasi,solid_waste,0.0137
+vs_gL,Kumasi,additives,0.0247
+vs_gL,Kumasi,never_emptied,0.0062
+vs_gL,Kumasi,log_sludge_age,0.1387
+vs_gL,Kumasi,ph,0.1868
+vs_gL,Kumasi,log_ec,0.0757

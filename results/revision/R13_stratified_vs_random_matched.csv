@@ -1,0 +1,25 @@
+target,total,design,cities,city_list,gain,p10,p90,improved
+ts_gL,6,stratified,5,"Dar es Salaam, Freetown, Kampala, Lusaka, Naivasha",8.64,-15.34,23.26,73.3
+ts_gL,6,random,5,"Dar es Salaam, Freetown, Kampala, Lusaka, Naivasha",7.42,-10.58,23.36,63.3
+ts_gL,10,stratified,4,"Dar es Salaam, Kampala, Lusaka, Naivasha",15.46,4.83,24.25,95.12
+ts_gL,10,random,4,"Dar es Salaam, Kampala, Lusaka, Naivasha",13.18,-4.26,24.25,85.25
+ts_gL,20,stratified,3,"Dar es Salaam, Kampala, Lusaka",20.95,15.44,26.56,100.0
+ts_gL,20,random,3,"Dar es Salaam, Kampala, Lusaka",19.38,10.7,25.44,98.17
+vs_gL,6,stratified,4,"Dar es Salaam, Kampala, Lusaka, Naivasha",4.86,-11.98,21.66,69.88
+vs_gL,6,random,4,"Dar es Salaam, Kampala, Lusaka, Naivasha",5.37,-9.74,15.93,75.75
+vs_gL,10,stratified,4,"Dar es Salaam, Kampala, Lusaka, Naivasha",6.74,-8.6,22.37,78.5
+vs_gL,10,random,4,"Dar es Salaam, Kampala, Lusaka, Naivasha",6.05,-8.6,15.96,80.25
+vs_gL,20,stratified,3,"Dar es Salaam, Kampala, Lusaka",12.18,4.2,24.87,98.33
+vs_gL,20,random,3,"Dar es Salaam, Kampala, Lusaka",9.69,3.67,15.62,96.33
+cod_gL,6,stratified,4,"Dar es Salaam, Freetown, Kampala, Lusaka",15.14,-0.53,29.02,89.5
+cod_gL,6,random,4,"Dar es Salaam, Freetown, Kampala, Lusaka",14.12,0.68,28.1,92.12
+cod_gL,10,stratified,3,"Dar es Salaam, Kampala, Lusaka",15.61,-0.81,30.76,88.67
+cod_gL,10,random,3,"Dar es Salaam, Kampala, Lusaka",14.85,2.68,28.4,94.33
+cod_gL,20,stratified,2,"Kampala, Lusaka",16.34,0.79,31.48,92.75
+cod_gL,20,random,2,"Kampala, Lusaka",16.01,3.31,29.05,97.25
+nh4_mgL,6,stratified,2,"Kampala, Lusaka",8.16,-15.51,32.97,48.5
+nh4_mgL,6,random,2,"Kampala, Lusaka",4.43,-8.4,22.3,45.25
+nh4_mgL,10,stratified,2,"Kampala, Lusaka",10.87,-11.16,33.36,51.75
+nh4_mgL,10,random,2,"Kampala, Lusaka",6.4,-7.8,23.08,57.25
+nh4_mgL,20,stratified,2,"Kampala, Lusaka",13.96,-6.47,33.99,53.75
+nh4_mgL,20,random,2,"Kampala, Lusaka",8.53,-2.98,23.45,65.75

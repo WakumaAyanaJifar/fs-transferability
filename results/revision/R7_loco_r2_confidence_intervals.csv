@@ -1,0 +1,97 @@
+target,model,test_city,n,R2_log,ci_lo,ci_hi
+cod_gL,B0_pooled_median,Dar es Salaam,51,-2.499,-3.566,-1.905
+cod_gL,B0_pooled_median,Freetown,29,-2.995,-5.172,-1.991
+cod_gL,B0_pooled_median,Kampala,179,-1.861,-2.361,-1.531
+cod_gL,B0_pooled_median,Kumasi,29,-1.112,-2.828,-0.461
+cod_gL,B0_pooled_median,Lusaka,349,-3.378,-4.371,-2.557
+cod_gL,B0_pooled_median,Naivasha,22,-0.056,-0.359,-0.0
+cod_gL,B0_pooled_median,POOLED (city-cluster bootstrap),659,-0.737,-2.084,-0.356
+cod_gL,B1_containment_rule,Dar es Salaam,51,-3.394,-4.604,-2.594
+cod_gL,B1_containment_rule,Freetown,29,-3.625,-6.009,-2.368
+cod_gL,B1_containment_rule,Kampala,179,-1.542,-1.992,-1.226
+cod_gL,B1_containment_rule,Kumasi,29,-6.937,-19.317,-0.033
+cod_gL,B1_containment_rule,Lusaka,349,-3.467,-4.467,-2.717
+cod_gL,B1_containment_rule,Naivasha,22,0.103,-0.203,0.212
+cod_gL,B1_containment_rule,POOLED (city-cluster bootstrap),659,-0.756,-2.144,-0.552
+cod_gL,random_forest,Dar es Salaam,51,-1.677,-2.666,-0.974
+cod_gL,random_forest,Freetown,29,-2.527,-5.398,-1.167
+cod_gL,random_forest,Kampala,179,-0.39,-0.662,-0.194
+cod_gL,random_forest,Kumasi,29,-3.673,-9.905,-0.713
+cod_gL,random_forest,Lusaka,349,-2.659,-3.519,-1.994
+cod_gL,random_forest,Naivasha,22,0.497,0.248,0.657
+cod_gL,random_forest,POOLED (city-cluster bootstrap),659,-0.211,-1.551,0.032
+cod_gL,xgboost,Dar es Salaam,51,-1.811,-2.896,-1.106
+cod_gL,xgboost,Freetown,29,-2.798,-5.702,-1.163
+cod_gL,xgboost,Kampala,179,-0.078,-0.331,0.131
+cod_gL,xgboost,Kumasi,29,-5.808,-13.982,-1.527
+cod_gL,xgboost,Lusaka,349,-3.204,-4.232,-2.416
+cod_gL,xgboost,Naivasha,22,0.53,0.279,0.694
+cod_gL,xgboost,POOLED (city-cluster bootstrap),659,-0.258,-1.842,0.131
+nh4_mgL,B0_pooled_median,Kampala,189,-0.221,-0.375,-0.116
+nh4_mgL,B0_pooled_median,Lusaka,409,-0.052,-0.116,-0.017
+nh4_mgL,B0_pooled_median,Naivasha,10,-1.698,-8.998,-0.642
+nh4_mgL,B0_pooled_median,POOLED (city-cluster bootstrap),608,-0.058,-1.698,-0.043
+nh4_mgL,B1_containment_rule,Kampala,189,0.085,-0.162,0.296
+nh4_mgL,B1_containment_rule,Lusaka,409,0.505,0.457,0.551
+nh4_mgL,B1_containment_rule,Naivasha,10,-1.347,-10.35,-0.291
+nh4_mgL,B1_containment_rule,POOLED (city-cluster bootstrap),608,0.426,-1.347,0.505
+nh4_mgL,random_forest,Kampala,189,0.318,0.133,0.466
+nh4_mgL,random_forest,Lusaka,409,0.307,0.247,0.359
+nh4_mgL,random_forest,Naivasha,10,-1.238,-7.215,-0.249
+nh4_mgL,random_forest,POOLED (city-cluster bootstrap),608,0.316,-1.238,0.33
+nh4_mgL,xgboost,Kampala,189,0.2,-0.032,0.383
+nh4_mgL,xgboost,Lusaka,409,0.099,0.003,0.176
+nh4_mgL,xgboost,Naivasha,10,-0.572,-4.316,0.054
+nh4_mgL,xgboost,POOLED (city-cluster bootstrap),608,0.148,-0.572,0.205
+ts_gL,B0_pooled_median,Dar es Salaam,91,-2.321,-3.3,-1.629
+ts_gL,B0_pooled_median,Freetown,27,-0.276,-0.882,-0.033
+ts_gL,B0_pooled_median,Kampala,211,-1.807,-2.308,-1.452
+ts_gL,B0_pooled_median,Kumasi,29,-3.975,-13.652,-1.694
+ts_gL,B0_pooled_median,Lusaka,418,-0.716,-0.995,-0.517
+ts_gL,B0_pooled_median,Naivasha,32,-0.029,-0.374,-0.0
+ts_gL,B0_pooled_median,POOLED (city-cluster bootstrap),808,-0.478,-1.448,-0.173
+ts_gL,B1_containment_rule,Dar es Salaam,91,-3.877,-5.529,-2.815
+ts_gL,B1_containment_rule,Freetown,27,-0.99,-2.218,-0.338
+ts_gL,B1_containment_rule,Kampala,211,-1.164,-1.634,-0.819
+ts_gL,B1_containment_rule,Kumasi,29,-1.413,-6.48,-0.385
+ts_gL,B1_containment_rule,Lusaka,418,-0.544,-0.806,-0.351
+ts_gL,B1_containment_rule,Naivasha,32,0.173,-0.313,0.394
+ts_gL,B1_containment_rule,POOLED (city-cluster bootstrap),808,-0.389,-1.54,-0.155
+ts_gL,random_forest,Dar es Salaam,91,-3.274,-4.62,-2.332
+ts_gL,random_forest,Freetown,27,-0.967,-2.165,-0.255
+ts_gL,random_forest,Kampala,211,-0.732,-1.031,-0.504
+ts_gL,random_forest,Kumasi,29,-0.597,-3.394,0.175
+ts_gL,random_forest,Lusaka,418,-0.057,-0.148,0.011
+ts_gL,random_forest,Naivasha,32,0.35,-0.138,0.545
+ts_gL,random_forest,POOLED (city-cluster bootstrap),808,-0.059,-1.199,0.092
+ts_gL,xgboost,Dar es Salaam,91,-3.472,-4.856,-2.474
+ts_gL,xgboost,Freetown,27,-1.049,-2.534,-0.216
+ts_gL,xgboost,Kampala,211,-0.291,-0.563,-0.081
+ts_gL,xgboost,Kumasi,29,-1.211,-5.601,-0.041
+ts_gL,xgboost,Lusaka,418,-0.215,-0.351,-0.109
+ts_gL,xgboost,Naivasha,32,0.45,-0.079,0.693
+ts_gL,xgboost,POOLED (city-cluster bootstrap),808,-0.087,-1.121,0.102
+vs_gL,B0_pooled_median,Dar es Salaam,74,-2.233,-3.275,-1.553
+vs_gL,B0_pooled_median,Kampala,211,-1.651,-2.117,-1.309
+vs_gL,B0_pooled_median,Kumasi,29,-2.166,-6.622,-0.867
+vs_gL,B0_pooled_median,Lusaka,407,-0.595,-0.853,-0.408
+vs_gL,B0_pooled_median,Naivasha,31,-0.001,-0.249,-0.0
+vs_gL,B0_pooled_median,POOLED (city-cluster bootstrap),752,-0.454,-1.412,-0.145
+vs_gL,B1_containment_rule,Dar es Salaam,74,-3.82,-5.496,-2.797
+vs_gL,B1_containment_rule,Kampala,211,-1.139,-1.584,-0.825
+vs_gL,B1_containment_rule,Kumasi,29,-1.11,-3.859,-0.235
+vs_gL,B1_containment_rule,Lusaka,407,-0.329,-0.55,-0.155
+vs_gL,B1_containment_rule,Naivasha,31,0.167,-0.254,0.398
+vs_gL,B1_containment_rule,POOLED (city-cluster bootstrap),752,-0.318,-1.466,-0.199
+vs_gL,random_forest,Dar es Salaam,74,-3.661,-5.211,-2.714
+vs_gL,random_forest,Kampala,211,-0.618,-0.928,-0.405
+vs_gL,random_forest,Kumasi,29,-0.188,-1.222,0.194
+vs_gL,random_forest,Lusaka,407,0.051,-0.016,0.107
+vs_gL,random_forest,Naivasha,31,0.273,-0.354,0.544
+vs_gL,random_forest,POOLED (city-cluster bootstrap),752,-0.027,-1.344,0.131
+vs_gL,xgboost,Dar es Salaam,74,-3.835,-5.519,-2.779
+vs_gL,xgboost,Kampala,211,-0.462,-0.8,-0.21
+vs_gL,xgboost,Kumasi,29,-0.888,-3.282,-0.078
+vs_gL,xgboost,Lusaka,407,-0.058,-0.164,0.037
+vs_gL,xgboost,Naivasha,31,0.325,-0.359,0.619
+vs_gL,xgboost,POOLED (city-cluster bootstrap),752,-0.072,-1.375,0.111

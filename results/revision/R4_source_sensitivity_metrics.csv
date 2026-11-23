@@ -1,0 +1,11 @@
+scenario,model,n,groups,R2_log,within_factor2_pct,target
+"LOCO, all sources",B1_containment_rule,808,6,-0.389,19.431,ts_gL
+"LOCO, all sources",random_forest,808,6,-0.059,24.629,ts_gL
+"LOCO, in-containment household/mixed sources only",B1_containment_rule,554,5,0.127,30.505,ts_gL
+"LOCO, in-containment household/mixed sources only",random_forest,554,5,0.049,25.271,ts_gL
+leave-one-source-out,random_forest,808,12,0.162,30.569,ts_gL
+"LOCO, all sources",B1_containment_rule,659,6,-0.756,17.451,cod_gL
+"LOCO, all sources",random_forest,659,6,-0.211,28.68,cod_gL
+"LOCO, in-containment household/mixed sources only",B1_containment_rule,477,5,-0.767,16.352,cod_gL
+"LOCO, in-containment household/mixed sources only",random_forest,477,5,-0.517,21.593,cod_gL
+leave-one-source-out,random_forest,659,10,-0.159,27.314,cod_gL

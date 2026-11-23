@@ -1,0 +1,11 @@
+{
+  "title": "fs-transferability: code and aggregated results for a leave-one-city-out evaluation of fecal sludge prediction in Sub-Saharan Africa",
+  "upload_type": "software",
+  "description": "Scripts that download seven open fecal sludge datasets, harmonise them, run leave-one-city-out, within-city and external evaluations of machine-learning models for total solids, volatile solids, COD and ammonium, and reproduce the figures and tables of the accompanying manuscript. Aggregated results are included; sample-level data are rebuilt from the original sources.",
+  "creators": [
+    {"name": "Ayana, Jifar Wakuma", "orcid": "0009-0001-9484-9253", "affiliation": "University of Science and Technology Beijing"},
+    {"name": "Lamore, Yonas", "orcid": "0000-0002-3787-6343", "affiliation": "University of Science and Technology Beijing; Debre Markos University"}
+  ],
+  "license": "MIT",
+  "keywords": ["fecal sludge", "faecal sludge management", "machine learning", "leave-one-city-out", "transferability", "Sub-Saharan Africa"]
+}

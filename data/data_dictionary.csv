@@ -1,0 +1,38 @@
+column,definition
+dataset,Source dataset folder (see README for DOI)
+campaign_year,Year(s) of the sampling campaign
+city,City of sampling
+country,Country
+region,SSA = Sub-Saharan Africa; external = outside SSA
+split_role,train_test = used in leave-one-city-out; external_test = only used for out-of-region testing
+sample_id,Sample identifier as in the source file
+outlier_flag,1 if the source authors flagged the sample as an outlier (Englund Kampala 'out' = YES)
+ts_gL,"Total solids, g/L"
+vs_gL,"Volatile solids, g/L"
+cod_gL,"Chemical oxygen demand, g/L"
+nh4_mgL,"Ammonium nitrogen, mg/L"
+cst_s,"Capillary suction time, s"
+ts_gL_source,'measured g/L' or 'from %wt' (= %wt x 10 x density; density 1 g/mL if not measured)
+containment,"pit latrine | septic tank | other (cesspit, holding tank)"
+watertight,"1 = fully lined / sealed / watertight; 0 = partially lined, unlined or not sealed"
+volume_m3,"Containment volume, m3"
+users,Number of people using the toilet(s) feeding the containment
+household,"1 = household (single or multiple); 0 = public, school, commercial, institutional"
+flush_toilet,1 = pour-flush or cistern-flush toilet; 0 = dry or urine-diverting only
+greywater,"1 = bathing, laundry or kitchen water also enters; 0 = toilet only"
+water_connection,1 = piped water connection on premises
+solid_waste,1 = solid waste (incl. hygiene products) present in containment
+additives,"1 = anything added to the containment (chemicals, bio-additives, ash, soap ...)"
+age_yr,"Containment age, years (categories converted to midpoints: <1 = 0.5, 1-5 = 3, 6-10 = 8, >10 = 15)"
+never_emptied,1 = containment never emptied since construction
+years_since_emptied,Years since last emptying (Englund Kampala: reported emptying interval)
+sludge_age_yr,"Years the sampled sludge has been accumulating = years_since_emptied, or age_yr if never emptied"
+ph,pH of sample
+ec_mScm,"Electrical conductivity, mS/cm"
+city_tavg_c,"City mean annual air temperature, deg C (Global Faecal Sludge Database)"
+city_precip_mm,"City mean annual precipitation, mm/yr (Global Faecal Sludge Database)"
+city_rel_hum_pct,"City mean relative humidity, % (Global Faecal Sludge Database)"
+city_elevation_m,"City elevation, m (Global Faecal Sludge Database)"
+city_pop_density_km2,"City population density, people/km2 (Global Faecal Sludge Database)"
+city_groundwater,"City groundwater level: 0 = low, 1 = medium, 2 = high (Global Faecal Sludge Database)"
+city_climate_zone,Climate zone (Global Faecal Sludge Database)
